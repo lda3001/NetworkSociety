@@ -45,3 +45,36 @@ Thumbs.db
 *.njsproj
 *.sln
 *.sw? 
+
+# Temporary files
+.temp/
+.tmp/
+.cache/
+
+# Coverage directory
+/coverage/
+/frontend/coverage/
+/backend/coverage/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Debug files
+.debug/
+debug.log
+
+# Local development files
+.local/
+local.log
+
+# Database files
+*.sqlite
+*.db
+
+# Uploads and media
+/uploads/
+/media/
+
